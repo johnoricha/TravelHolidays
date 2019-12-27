@@ -6,7 +6,7 @@
 #### A SplashScreen
 #### A RecyclerView
 #### The app requires authentication, so you'll have to create an account in order to login to view the travel deals
-#### For Admins:
+#### For Admin:
 #### You can create a new travel deal and save it to the realtime database
 #### And also upload a corresponding image for the created deal
 
