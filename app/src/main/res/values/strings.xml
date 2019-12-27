@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TravelHolidays</string>
+    <string name="hint_price">Price</string>
+    <string name="hint_description">Description</string>
+    <string name="price_hint">Price (numbers only)</string>
+    <string name="delete_deal">delete deal</string>
+</resources>
